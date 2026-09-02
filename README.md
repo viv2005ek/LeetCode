@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/viv2005ek/LeetCode/tree/master/0043-multiply-strings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/viv2005ek/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/viv2005ek/LeetCode/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/viv2005ek/LeetCode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/viv2005ek/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
