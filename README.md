@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/viv2005ek/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/viv2005ek/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/viv2005ek/LeetCode/tree/master/0046-permutations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/viv2005ek/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 |  |
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/viv2005ek/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/viv2005ek/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
