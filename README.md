@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/viv2005ek/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/viv2005ek/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/viv2005ek/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/viv2005ek/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/viv2005ek/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/viv2005ek/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/viv2005ek/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/viv2005ek/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
