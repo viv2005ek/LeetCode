@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/viv2005ek/LeetCode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/viv2005ek/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
