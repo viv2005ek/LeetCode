@@ -5,7 +5,7 @@
 var merge = function(intervals) {
     intervals.sort((a, b) => a[0] - b[0]);
 
-    let result = [];
+    let res = [];
     let current = intervals[0];
 
     for (let i = 1; i < intervals.length; i++) {
@@ -17,12 +17,12 @@ var merge = function(intervals) {
         } 
         // Not overlapping
         else {
-            result.push(current);
+            res.push(current);
             current = next;
         }
     }
 
-    result.push(current);
+    res.push(current);
 
-    return result;
+    return res;
 };
