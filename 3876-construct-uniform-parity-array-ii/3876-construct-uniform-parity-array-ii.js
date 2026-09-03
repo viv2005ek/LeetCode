@@ -3,11 +3,11 @@
  * @return {boolean}
  */
 var uniformArray = function(nums1) {
-    nums1.sort((a,b)=>a-b);
-    nums2=nums1.map(num=>num%2);
-   if(nums2[0]==1) return true;
-   for(let num of nums2){
-if(num==1)return false;
+    let min = Math.min(...nums1);
+   
+   if(min%2==1) return true;
+   for(let num of nums1){
+if(num%2==1)return false;
    }
    return true;
 };
