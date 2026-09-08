@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/viv2005ek/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/viv2005ek/LeetCode/tree/master/0043-multiply-strings) |
+| [3870-count-commas-in-range](https://github.com/viv2005ek/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/viv2005ek/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/viv2005ek/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
